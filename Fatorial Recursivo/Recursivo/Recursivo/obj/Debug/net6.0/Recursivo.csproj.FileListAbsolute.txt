@@ -1,0 +1,15 @@
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\bin\Debug\net6.0\Recursivo.exe
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\bin\Debug\net6.0\Recursivo.deps.json
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\bin\Debug\net6.0\Recursivo.runtimeconfig.json
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\bin\Debug\net6.0\Recursivo.dll
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\bin\Debug\net6.0\Recursivo.pdb
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\obj\Debug\net6.0\Recursivo.csproj.AssemblyReference.cache
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\obj\Debug\net6.0\Recursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\obj\Debug\net6.0\Recursivo.AssemblyInfoInputs.cache
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\obj\Debug\net6.0\Recursivo.AssemblyInfo.cs
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\obj\Debug\net6.0\Recursivo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\obj\Debug\net6.0\Recursivo.dll
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\obj\Debug\net6.0\refint\Recursivo.dll
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\obj\Debug\net6.0\Recursivo.pdb
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\obj\Debug\net6.0\Recursivo.genruntimeconfig.cache
+C:\Users\Lucas Origuela\Desktop\fatorial\Fatorial Recursivo\Recursivo\Recursivo\obj\Debug\net6.0\ref\Recursivo.dll
